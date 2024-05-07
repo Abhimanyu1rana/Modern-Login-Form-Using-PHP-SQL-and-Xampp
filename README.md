@@ -36,7 +36,7 @@ This README provides an overview of the features and installation procedure for 
    - Customize the CSS styles in `style.css` to match your project's design requirements.
    - Modify the PHP files (`index.php`, `login.php`, `registration.php`, `logout.php`, `database.php`) to add additional features or customize the behavior as needed.
 
-### Usage 
+## Usage 
 
 #### 1. Registration:
 
@@ -97,16 +97,22 @@ This project provides a basic yet functional login system that can be used as a 
 
 ## Screenshots
 **This screen is shown after you open `http://localhost/your-project-folder/login.php` in your browser:** 
-It has Buttons to select Single Deal , Multi Deal or Change Power Settings
-
+It has bar to enter email ID, Password if you are already registered. 
+And it has Register here Link for New Email ID's.
 ![Login 1.png](Login%201.png)
 
-**
+**This screen is shown after you hit Register here**
+It has Details tab to be filled and Passowrd Creation oprerations.
 ![Login 2.png](Login%202.png)
 
-
+**Lets try Creating a Test account for yourself** 
 ![Login 3.png](Login%203.png)
 
+**After hiting Register our test Email Id was Succesfully registered into the database and we are ready to Login in Login.php.** 
 ![Login 4.png](Login%204.png)
+
+**Lets try our test email is accepted by iru system database or not**
 ![Login 5.png](Login%205.png)
+
+**Our user is succesfully logged into the system**
 ![Login 6.png](Login%206.png)
