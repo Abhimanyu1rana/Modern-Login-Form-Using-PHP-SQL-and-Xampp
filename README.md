@@ -98,7 +98,7 @@ This project provides a basic yet functional login system that can be used as a 
 ## Screenshots
 **This screen is shown after you open `http://localhost/your-project-folder/login.php` in your browser:** 
 It has Buttons to select Single Deal , Multi Deal or Change Power Settings
-![Login 1.png](Login 1.png)
+![Login_1.png](Login_1.png)
 
 **
 ![Login 2.png](Login 2.png)
