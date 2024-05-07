@@ -36,7 +36,7 @@ This README provides an overview of the features and installation procedure for 
    - Customize the CSS styles in `style.css` to match your project's design requirements.
    - Modify the PHP files (`index.php`, `login.php`, `registration.php`, `logout.php`, `database.php`) to add additional features or customize the behavior as needed.
 
-### Usage Guide
+### Usage 
 
 #### 1. Registration:
 
@@ -94,3 +94,18 @@ This project provides a basic yet functional login system that can be used as a 
 **Seamless Integration of Backend Systems:** Successfully integrated backend systems, including user authentication and session management, ensuring smooth and secure user interactions with the application, highlighting adeptness in backend development and system integration.
 
 **Responsive and Accessible Design:** Implemented responsive design principles and accessibility features, ensuring compatibility across various devices and catering to users with diverse accessibility needs, showcasing a commitment to inclusive design practices and user-centric development.
+
+## Screenshots
+**This screen is shown after you open `http://localhost/your-project-folder/login.php` in your browser:** 
+It has Buttons to select Single Deal , Multi Deal or Change Power Settings
+![Login1.png](Login1.png)
+
+**
+![Login2.png](Login2.png)
+
+![Login3.png](Login3.png)
+![Login4.png](Login4.png)
+![Login5.png](Login5.png)
+
+![Login6.png](Login6.png)
+
